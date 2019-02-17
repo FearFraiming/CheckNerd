@@ -46,7 +46,7 @@ elif choice == 3:
 elif choice == 4:
          os.system("python2 checker")
 elif choice == 5:
-         OS . sistema ( "cat BinGuardados.txt" )
+         OS . sistema ( "cat Binguardados.txt" )
 elif elección == 0:          
           salir ()
 else: 
