@@ -125,7 +125,7 @@ def ccgen(bin_format):
             else:
                 print("\nCaracter no valido en el formato: {}\n".format(bin_format))
                 print("El formato del bin es: xxxxxxxxxxxxxxxx de 16 digitos\n")
-                print("Ayuda: python2 cc-genpro.py -h \n")
+                print("Ayuda: python2 check.py -h \n")
                 sys.exit()
 
         #Generate checksum (last digit) -- IMPLICIT CHECK
@@ -143,7 +143,7 @@ def ccgen(bin_format):
         print("\033[1;32m")
         print("\nERROR: Inserta un bin valido\n")
         print("SOLUCION: El formato del bin es: xxxxxxxxxxxxxxxx de 16 digitos\n")
-        print("AYUDA: python2 cc-genpro.py -h\n")
+        print("AYUDA: python2 check.py -h\n")
         sys.exit()
 
     return(out_cc)
