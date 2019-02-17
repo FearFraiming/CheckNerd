@@ -47,7 +47,7 @@ elif choice == 4:
          os.system("python2 checker")
 elif choice == 5:
          OS . sistema ( "cat BinGuardados.txt" )
-Elif  elección  ==  0 :          
+elif elección == 0:          
           salir ()
 else: 
 ## default ##
