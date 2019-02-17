@@ -46,19 +46,9 @@ elif choice == 3:
 elif choice == 4:
          os.system("python2 checker")
 elif choice == 5:
-         os.system("cat BinGuardados.txt")
-
-elif choice == 6:
-         os.system("clear")
-         os.system("bash creditos")
-         time.sleep(8)
-         os.system("python2 cc-genpro1.2.py")
-elif choice == 7:
-         print ("")
-         print ("MENSAJE: Este es un simple script para generar bins y ahorrar tiempo al momento de binear en el navegador.")
-         
-elif choice == 0:
-          exit ()
+         OS . sistema ( "cat BinGuardados.txt" )
+Elif  elección  ==  0 :          
+          salir ()
 else: 
 ## default ##
         print ("Opcion invalida...Sigue intentando cara de Np")
