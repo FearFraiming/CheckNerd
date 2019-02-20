@@ -53,14 +53,11 @@ le dan click a la (q) para quitar el bloqueo
 
 N.4 eligen lo que quierean.
 
-=================================
-banner
-  _  _ _ _ _ _ _ _ _ _ _ _ _ _ _
- / \ / \ / \ / \ / \ / \ / \ / \
-(H | A | C | K | N | E | R | D) )
- \ _ / \ _ / \ _ / \ _ / \ _ /_/
 
-=================================
+
+
+
+
 
 
 #Ojo si tienes estos paquetes no los vuelvas a instalar solo ejectuca el script 
