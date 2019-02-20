@@ -56,6 +56,8 @@ N.4 eligen lo que quierean.
 
 
 
+        CheckNerd/Screenshot_2019-02-20-08-44-56.png
+      
 
 
 
